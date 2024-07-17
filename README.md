@@ -22,4 +22,5 @@ Some files' description:
 
 * Both cart pole and mountain car environments has parameters: noisy_environment default is normal, scaling_factor default is 0.1, reward_schedule default is variable ratio. Those parameters can be set and executed in main.py
 
-For files' structure, please prefer to the provided Class Diagram.
+For files' structure, please refer to the provided Class Diagram.
+
